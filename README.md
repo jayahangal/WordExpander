@@ -7,6 +7,6 @@ Expanded list of synonyms:
 
 Requirements:
 
-This program uses word-net database and JAWS library to access the wordnet database.
+This program uses word-net database and JAWS (Java API for WordNet Searching) to access the wordnet database.
 1. Word Net: http://wordnet.princeton.edu/
-2. JAWS (Java API for WordNet Searching), http://lyle.smu.edu/~tspell/jaws/index.html
+2. JAWS  http://lyle.smu.edu/~tspell/jaws/index.html
